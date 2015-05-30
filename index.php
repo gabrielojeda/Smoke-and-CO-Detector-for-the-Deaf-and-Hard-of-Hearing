@@ -73,3 +73,4 @@ while($flag == '1')
 		echo $result;
 	}
 }
+?>
