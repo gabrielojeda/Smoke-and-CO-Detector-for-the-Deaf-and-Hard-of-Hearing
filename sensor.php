@@ -1,7 +1,6 @@
-<?php
-
 /* This file stores the data posted from the CC3000 in your MySQL database */
 
+<?php
 function db_connect()
 {
 	$result = mysql_connect("localhost", "energy_user", "root");
